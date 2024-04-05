@@ -63,7 +63,7 @@ dotnet ef dbcontext scaffold "Data Source=[servername];Initial Catalog=LearnSmar
 
 #### User Microservice:
 
-This Microservice is deployed to Azure and can be accessed here https://lsc-ecommerce-userprofile.azurewebsites.net/swagger/index.html
+This Microservice is deployed to Azure and can be accessed here https://skcart-product-api.azurewebsites.net/swagger/index.html
 
 - UserProfile
 - UserRole
