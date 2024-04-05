@@ -9,13 +9,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{D5
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Product", "Product", "{1283C7D0-C3EA-4FE2-9ABD-697A48469854}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products.Web", "LearnSmartCoding.SmartCartHub\src\Services\Product\Product.Web\Products.Web.csproj", "{E20CC828-6E74-4880-AC4C-1205EE6CDFD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products.Web", "ecommerce.skCartHub\src\Services\Product\Product.Web\Products.Web.csproj", "{E20CC828-6E74-4880-AC4C-1205EE6CDFD5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products.Core", "LearnSmartCoding.SmartCartHub\src\Services\Product\Products.Core\Products.Core.csproj", "{57205F25-351D-4944-AED0-AD10BE04E0BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products.Core", "ecommerce.skCartHub\src\Services\Product\Products.Core\Products.Core.csproj", "{57205F25-351D-4944-AED0-AD10BE04E0BD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products.Service", "LearnSmartCoding.SmartCartHub\src\Services\Product\Products.Service\Products.Service.csproj", "{A4317A33-4815-427B-A390-B1C960E43F7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products.Service", "ecommerce.skCartHub\src\Services\Product\Products.Service\Products.Service.csproj", "{A4317A33-4815-427B-A390-B1C960E43F7F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products.Data", "LearnSmartCoding.SmartCartHub\src\Services\Product\Products.Data\Products.Data.csproj", "{84205445-03FD-4C9B-8607-B2AB1B5AF0E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products.Data", "ecommerce.skCartHub\src\Services\Product\Products.Data\Products.Data.csproj", "{84205445-03FD-4C9B-8607-B2AB1B5AF0E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
